@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url(/pictures/eyes-218185.jpg);
+    background-size: cover;
+    color:white;
+    font-family: helvetica;
+}
+h1{
+    font-size: 22px;
+}
+p{  font-size: 22px;
+}
+input{  
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input[type="submit"]{
+    background-color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
