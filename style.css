@@ -1,11 +1,38 @@
+header {
+    text-align: center;
+    background-image: url(/pictures/backgournd101.jpeg.crdownload);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+
+}
+
+h1{
+    color:black;
+}
+ul{
+    padding: 10px;
+    background: black;
+}
+a {
+    color:  green;
+    font-family:fantasy;
+    font-size: x-large;
+}
+li{
+    display: inline;
+    padding: 0px 70px 0px 70px;
+}
+
 body{
     text-align: center;
+    /* background-image: url(/pictures/eyes-218185.jpg); */
     background-image: url(/pictures/eyes-218185.jpg);
     background-size: cover;
     color:white;
     font-family: helvetica;
 }
-h1{
+h2{
     font-size: 22px;
 }
 p{  font-size: 22px;
