@@ -8,7 +8,9 @@ header {
 }
 
 h1{
-    color:black;
+    color:bisque;
+    font-size:x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 ul{
     padding: 10px;
@@ -27,7 +29,8 @@ li{
 body{
     text-align: center;
     /* background-image: url(/pictures/eyes-218185.jpg); */
-    background-image: url(/pictures/eyes-218185.jpg);
+    /* background-image: url(/pictures/eyes-218185.jpg); */
+    background-color:black;
     background-size: cover;
     color:white;
     font-family: helvetica;
