@@ -1,12 +1,12 @@
 let button = document.getElementById('button')
 const $inpValue = $('#input')
-let origin = document.getElementById('origin')
-let length = document.getElementById('length')
-let intel = document.getElementById('intelligence')
-let playFull = document.getElementById('playfulness')
-let oPF = document.getElementById('other_pets_friendly')
+const $origin = $('#origin')
+const $length = $('#length')
+const $intelligence = $('#intelligence')
+const $playfulness = $ ('#playfulness')
+const $other_pets_friendly = $('#other_pets_friendly')
 
-
+let catData;
 button.addEventListener('click' , function(){
     var name = $inpValue.val()
     $.ajax({
@@ -16,7 +16,15 @@ button.addEventListener('click' , function(){
     contentType: 'application/json',
     success: function(result) {
     console.log(result);
-    },
+    catData = result.find(el => el.name === name)
+    console.log(catData);
+    $origin.text(catData.origin);
+    $length.text(catData.length);
+    $intelligence.text(catData.intelligence);
+    $playfulness.text(catData.playfulness);
+    $other_pets_friendly.text(catData.other_pets_friendly);
+
+},
     
     error: function ajaxError(jqXHR) {
         console.error('Error: ', jqXHR.responseText);
@@ -31,6 +39,9 @@ button.addEventListener('click' , function(){
 //     .then(data => console.log(data))
 //     .catch(err => alert('wrong breed name!'))
 // })
+
+
+
 
 
 
