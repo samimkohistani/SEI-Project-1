@@ -36,7 +36,9 @@ button.addEventListener('click' , function(){
     $min_life_expectancy.text(catData.min_life_expectancy);
     $max_life_expectancy.text(catData.max_life_expectancy);
     $family_friendly.text(catData.family_friendly);
-    $image_link.append(`<img src = "${catData.image_link}"/>`);
+    $image_link.append(`<img src = "${catData.image_link}">`);
+
+        // const html = 
     // document.getElementById('image_link').src = catData.image_link;
 
 
