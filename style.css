@@ -19,7 +19,7 @@ ul {
 }
 
 a {
-    color: green;
+    color: pink;
     font-family: fantasy;
     font-size: x-large;
 }
@@ -59,7 +59,7 @@ h4 {
 }
 
 input {
-    background-color: yellowgreen;
+    background-color: pink;
     color: black;
     border: 0;
     padding: 10px;
@@ -68,7 +68,7 @@ input {
 }
 
 input[type="submit"] {
-    background-color: rgb(245, 127, 127);
+    background-color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 
