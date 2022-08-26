@@ -8,7 +8,7 @@ header {
 }
 
 h1 {
-    color: bisque;
+    color: white;
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -41,20 +41,20 @@ body {
 
 h2 {
     font-size: x-large;
-    color: bisque;
+    color:white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 p {
     font-size: x-large;
-    color: bisque;
+    color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h4 {
     font-size: x-large;
     /* background-color:rgb(0, 0, 0); */
-    color: bisque;
+    color:white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -74,6 +74,3 @@ input[type="submit"] {
 
 }
 
-/* #origin{
-    color: black;
-} */
