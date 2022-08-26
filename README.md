@@ -1,6 +1,8 @@
 # SEI-Project-1
 project 1 
 
+Everyday is Catturday!
+
 This is my first project for SEI course.
 
 In this project I'm creating a webiste using a cat API to educate user about different cat breeds.
@@ -21,5 +23,19 @@ https://api-ninjas.com/api/cats
 
 
 Screenshots of my project throughout different phases:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

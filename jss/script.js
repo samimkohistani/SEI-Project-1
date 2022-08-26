@@ -15,6 +15,7 @@ const $family_friendly = $('#family_friendly');
 
 let catData;
 button.addEventListener('click' , function(){
+    $image_link.empty();
     var name = $inpValue.val()
     $.ajax({
     method: 'GET',
@@ -35,7 +36,8 @@ button.addEventListener('click' , function(){
     $min_life_expectancy.text(catData.min_life_expectancy);
     $max_life_expectancy.text(catData.max_life_expectancy);
     $family_friendly.text(catData.family_friendly);
-    $image_link.text(catData.image_link);
+    $image_link.append(`<img src = "${catData.image_link}"/>`);
+    // document.getElementById('image_link').src = catData.image_link;
 
 
 },
