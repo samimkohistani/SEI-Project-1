@@ -19,15 +19,15 @@ CSS3
 jQuery
 JavaScript
 
+
 # The API I used :
 
 https://api-ninjas.com/api/cats
 
 
 # My Code:
+<img width="1440" alt="Screen Shot 2022-08-29 at 1 54 26 PM" src="https://user-images.githubusercontent.com/110922883/187604940-37a02e1c-98ce-42bd-9b94-3c45d4fabf0e.png">
 
-
-screenshots of project
 
 
 
