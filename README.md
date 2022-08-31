@@ -33,6 +33,8 @@ https://api-ninjas.com/api/cats
 # Link to my app :
 https://samimkohistani.github.io/SEI-Project-1/
 
+# Future changes:
+
 
 
 
