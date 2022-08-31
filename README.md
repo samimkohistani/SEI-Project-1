@@ -20,13 +20,16 @@ jQuery
 JavaScript
 
 
-# The API I used :
+# The API I used:
 
 https://api-ninjas.com/api/cats
 
 
-# My Code:
-<img width="1440" alt="Screen Shot 2022-08-29 at 1 54 26 PM" src="https://user-images.githubusercontent.com/110922883/187604940-37a02e1c-98ce-42bd-9b94-3c45d4fabf0e.png">
+# Screenshots:
+<img width="1440" alt="Screen Shot 2022-08-31 at 2 05 03 AM" src="https://user-images.githubusercontent.com/110922883/187605877-f5556b02-7508-4a84-b275-8644b420a2ef.png">
+
+
+
 
 
 
