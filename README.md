@@ -26,7 +26,9 @@ https://api-ninjas.com/api/cats
 
 
 # Screenshots:
-<img width="1440" alt="Screen Shot 2022-08-31 at 2 05 03 AM" src="https://user-images.githubusercontent.com/110922883/187605877-f5556b02-7508-4a84-b275-8644b420a2ef.png">
+<img width="1425" alt="Screen Shot 2022-08-31 at 2 04 31 AM" src="https://user-images.githubusercontent.com/110922883/187606006-193ba319-fc21-47b6-a077-f7f7f52b0a89.png">
+<img width="1437" alt="Screen Shot 2022-08-31 at 2 04 50 AM" src="https://user-images.githubusercontent.com/110922883/187606028-cc401413-ec18-4c0f-a7fd-ff9135595220.png">
+<img width="1440" alt="Screen Shot 2022-08-31 at 2 05 03 AM" src="https://user-images.githubusercontent.com/110922883/187606051-4d837d05-d990-4926-926e-7bce345085ee.png">
 
 
 
