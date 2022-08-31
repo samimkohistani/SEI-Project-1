@@ -31,14 +31,6 @@ https://api-ninjas.com/api/cats
 <img width="1440" alt="Screen Shot 2022-08-31 at 2 05 03 AM" src="https://user-images.githubusercontent.com/110922883/187606051-4d837d05-d990-4926-926e-7bce345085ee.png">
 
 
-# Future enhacements:
-
-Add videos as well as images for the search results
-Make my app compitable for different screen sizes
-Get a Domain for my app
-
-
-
 
 
 
