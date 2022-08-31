@@ -12,17 +12,13 @@ My goal is to create an easy learning experience for the user as well as fun and
 API link I used for this project:
 
 
-Technologies used ofr this project:
+# technologies used:
 
 HTML5 
 CSS3
 jQuery
 JavaScript
-A cat API link:
-https://api-ninjas.com/api/cats
 
-
-Screenshots of my project throughout different phases:
 
 
 
